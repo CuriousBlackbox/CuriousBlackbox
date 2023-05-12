@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div align="center">I'm BlackBox, a Corporate and IT security Student</div>  
+### <div align="center">I'm BlackBox </div>  
   
 
 - 🌱 I’m currently learning Python, HTML and many more  
